@@ -1,0 +1,14 @@
+xterm*locale: true
+xterm.utf8: true
+xterm*utf8Title: true
+xterm*faceName: Mono:pixelsize=14
+xterm*faceNameDoublesize: WenQuanYi Micro Hei:pixelsize=15
+
+*VT100*colorMode: on
+*VT100*boldColors: on
+*VT100*dynamicColors: on
+
+! Set the default text foreground and background colors.
+*VT100*foreground: gray90
+*VT100*background: black
+
