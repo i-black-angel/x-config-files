@@ -1,3 +1,4 @@
 files:
 .Xresources
    $ cp .Xresources ~
+   $ cp .fonts.conf ~
